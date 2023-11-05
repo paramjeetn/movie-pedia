@@ -4,7 +4,7 @@ import MovieCard from './MovieCard';
 
 import "./App.css";
 
-const API_URL = `http://www.omdbapi.com?apikey=32c0e685`;
+const API_URL = `https://www.omdbapi.com?apikey=32c0e685`;
 const movie1 = {
     "Title": "Lois & Clark: The New Adventures of Superman",
     "Year": "1993",
